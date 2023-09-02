@@ -1,4 +1,4 @@
-How to add Biometri Authentication in your flutter app? Android + IOS (2023) 
+How to add Biometric Authentication in your flutter app? Android + IOS (2023) 
 
 Youtube link: https://youtu.be/3cb1PMihjTg
 
